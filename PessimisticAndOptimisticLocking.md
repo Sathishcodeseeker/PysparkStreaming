@@ -664,14 +664,5 @@ Everything reduces to:
 
 ---
 
-If you want, next I can explain:
-
-* How **CPU instructions manipulate bits**
-* Why **NULL is special**
-* How **hashing uses bits**
-* How **compression works using bit patterns**
-* How **Spark / Databricks works at bit level**
-
-Just tell me 👍
 
 
